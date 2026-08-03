@@ -1,0 +1,24 @@
+# Core LLM framework
+langchain
+langchain-groq
+groq
+
+# Data handling
+pandas
+numpy
+
+# Structured outputs
+pydantic>=2.0
+
+# Progress bars
+tqdm
+
+# Dataset download
+kagglehub
+
+# Visualisation
+matplotlib
+
+# Notebook environment
+jupyter
+ipykernel
