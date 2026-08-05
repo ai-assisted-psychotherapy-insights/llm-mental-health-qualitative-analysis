@@ -1,4 +1,4 @@
-# AI-Assisted Qualitative Analysis of Mental Health Narratives
+# AI-assisted Qualitative Analysis of Reddit Mental Health Reports
 
 ## Overview
 
