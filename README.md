@@ -12,8 +12,7 @@ The aim is to extract:
 
 ## Workflow
 
-<img width="452" height="262" alt="image" src="https://github.com/user-attachments/assets/56c70aff-1539-4171-afba-373adb319d58" />
-
+<img width="1498" height="891" alt="image" src="https://github.com/user-attachments/assets/54138df3-3a03-4429-b3f1-ce289845d2aa" />
 
 ## Technologies
 
