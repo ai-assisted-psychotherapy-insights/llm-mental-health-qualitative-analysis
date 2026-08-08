@@ -12,17 +12,8 @@ The aim is to extract:
 
 ## Workflow
 
-Patient narratives
-↓
-Narrative Analysis Agent
-↓
-Behavioural Mechanism Agent
-↓
-Intervention Mapping Agent
-↓
-Evidence Traceability Agent
-↓
-Research Hypothesis Generator Agent
+<img width="452" height="262" alt="image" src="https://github.com/user-attachments/assets/56c70aff-1539-4171-afba-373adb319d58" />
+
 
 ## Technologies
 
